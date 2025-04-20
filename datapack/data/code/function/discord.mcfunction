@@ -1,0 +1,1 @@
+tellraw @s {"clickEvent":{"action":"open_url","value":"https://discord.gg/G7d9XmJ9VG"},"color":"#8FA9FF","text":"Join The Discord!","underlined":true}

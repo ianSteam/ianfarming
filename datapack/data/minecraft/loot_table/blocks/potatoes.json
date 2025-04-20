@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potato",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{farm:1b}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 10,
+          "functions": [
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "weight": 1,
+          "functions": [
+          ]
+        }
+      ]
+    }
+  ]
+}

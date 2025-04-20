@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{farm:1b}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 1000,
+          "functions": [
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_carrot",
+          "weight": 1,
+          "functions": [
+          ]
+        }
+      ]
+    }
+  ]
+}

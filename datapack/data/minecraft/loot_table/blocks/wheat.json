@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat",
+          "weight": 1000,
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{farm:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

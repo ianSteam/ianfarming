@@ -1,0 +1,1 @@
+give @s stick[food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:214748647}] 1
